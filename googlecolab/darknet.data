@@ -1,5 +1,5 @@
 classes = 1
-train  = /content/gdrive/My\ Drive/home/learnopencv/snowman_train.txt
-valid  = /content/gdrive/My\ Drive/home/learnopencv/snowman_test.txt
-names = /content/gdrive/My\ Drive/home/learnopencv/classes.names
-backup = backup
+train  = /content/gdrive/My\ Drive/home/gazeboyolov3/train.txt
+valid  = /content/gdrive/My\ Drive/home/gazeboyolov3/test.txt
+names = /content/gdrive/My\ Drive/home/gazeboyolov3/classes.names
+backup = /content/gdrive/My\ Drive/home/gazeboyolov3/weights
