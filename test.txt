@@ -1,5 +1,0 @@
-images/33.jpg
-images/23.jpg
-images/17.jpg
-images/25.jpg
-images/27.jpg
